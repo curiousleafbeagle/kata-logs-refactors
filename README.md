@@ -36,9 +36,9 @@ i don't reproduce them: i link to the original kata instead. please refer to the
 
 ## katas
 
-| kyu | kata | solution | notes |
-|-----|------|----------|-------|
-| 8   | TBD | TBD | TBD |
+| kyu | kata | solution | notes | language |
+|-----|------|----------|-------|-------|
+| 8   | [link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [convert a number to a string](https://github.com/curiousleafbeagle/kata-logs-refactors/blob/main/8kyu/convert%20a%20number%20to%20a%20string/convert_a_number_to_a_string_solution.cpp) | [my note](https://github.com/curiousleafbeagle/kata-logs-refactors/blob/main/8kyu/convert%20a%20number%20to%20a%20string/notes.md) | `c++` |
 
 ### other notes
 this `README.md` is a work in progress...
