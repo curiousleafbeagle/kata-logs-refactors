@@ -1,2 +1,44 @@
 # kata-logs-refactors
-my learning logs &amp; solutions for CW katas.
+my cw solutions and refactors.
+all are updated as i find better ones, and i add notes to my learning logs.
+if you're learning too, don't copy these directly to solve a kata. try solving it
+yourself first!
+
+## each folder contains ↴
+```
+├── 8-kyu/
+│   └── kataname/
+│       ├── kataname_solution.<ext>
+│       └── notes.md
+└── 7-kyu/
+    └── kataname/
+        ├── kataname_solution.<ext>
+        └── notes.md
+```
+- **`kataname_solution.<ext>`** - my code
+- **`notes.md`** — my approach, what i learned, and how i refactored it.
+
+## purpose of this repo
+i wanted to learn programming from scratch by myself.
+i revisit my solutions as i improve and track the changes here. 
+
+> **quick disclaimer:** i used to code a long time ago, but i've forgotten most of it and
+i'm relearning as a beginner. so don't take anything here as expert advice. 
+
+## contributing
+thanks for the interest, but i'm not accepting contributions to this repo.
+<mark>this is a personal learning log to track my improvements.</mark>
+
+## credits
+kata descriptions and their test suites belong to their respective authors.
+
+i don't reproduce them: i link to the original kata instead. please refer to them below.
+
+## katas
+
+| kyu | kata | solution | notes |
+|-----|------|----------|-------|
+| 8   | TBD | TBD | TBD |
+
+### other notes
+this `README.md` is a work in progress...
