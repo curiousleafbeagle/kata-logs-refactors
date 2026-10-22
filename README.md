@@ -39,6 +39,7 @@ i don't reproduce them: i link to the original kata instead. please refer to the
 | kyu | kata | solution | notes | language |
 |-----|------|----------|-------|-------|
 | 8   | [link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [convert a number to a string](https://github.com/curiousleafbeagle/kata-logs-refactors/blob/main/8kyu/convert%20a%20number%20to%20a%20string/convert_a_number_to_a_string_solution.cpp) | [my note](https://github.com/curiousleafbeagle/kata-logs-refactors/blob/main/8kyu/convert%20a%20number%20to%20a%20string/notes.md) | `c++` |
+| 8   | [link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [convert a boolean to a string](https://github.com/curiousleafbeagle/kata-logs-refactors/blob/main/8kyu/convert%20a%20boolean%20to%20a%20string/convert_a_boolean_to_a_string_solution.cpp) | [my note](https://github.com/curiousleafbeagle/kata-logs-refactors/blob/main/8kyu/convert%20a%20boolean%20to%20a%20string/notes.md) | `c++` |
 
 ### other notes
 this `README.md` is a work in progress...
