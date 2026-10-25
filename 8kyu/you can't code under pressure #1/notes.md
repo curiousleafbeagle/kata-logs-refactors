@@ -12,4 +12,4 @@
 * initial.
 
 ---
-➜ [kata link](https://www.codewars.com/kata/55685cd7ad70877c23000102)
+➜ [kata link](https://www.codewars.com/kata/53ee5429ba190077850011d4)
