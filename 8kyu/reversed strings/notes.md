@@ -1,4 +1,4 @@
-# convert a number to a string
+# reversed strings
 
 ## approach
 * note goes here.
